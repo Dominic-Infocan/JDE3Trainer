@@ -1,2 +1,2 @@
 # JDE3Trainer
-The Demo for JDE3/Generation 
+I create this repository to demostrate GITHub for JDE3/Generation 
